@@ -1,21 +1,37 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 萌新的第一篇博客
 ---
 
-# 我的博客标题
+# 关于VScode和markdow的几个问题
 
-## 1、你会使用 vscode 编辑 markdown 了吗？
+Hello,world!<br/>
+第一篇博客就写写研tong究ku了几晚VS code和markdown遇到的困难吧。
 
-你会使用 git bash 创建本地空间了吗？
+![](images/01.png)<br/>
+真的学会了吗T_T
 
-你能拉取本文档到本地了？它在 gh-pages 分支内，设置 Slate 主题！
+## 1.VS code换字体
+兴高采烈的下好VS code却发现长得和指南里不一样？<br/>
+![](images/02.png)<br/>
+（英语渣瑟瑟发抖）
 
-用 vscode 编辑它，然后提交！
+其实在左边最后的扩展里搜索language找到简体中文，下载后按照流程做即可。
+![](images/03.png)<br/>
 
-这个文档将发布在 https://your-account.github.io/homework 中！
+## 2.Markdown预览网页
+做了修改又嫌麻烦不想再提交推送在网页上查看效果？<br/>
+其实通过快捷键就可以预览：<br/>
+![](images/04.png)<br/>
+可以按下Ctrl+Shift+V;也可以先按Ctrl + K，然后放掉，紧接着再按 V，都能调出实时预览框。（要在英文输入状态下）
+
+## 3.文本换行
+终于做完第一次作业，打开一看却发现字都挤在一起?<br/>
+当然你可以像模板中那样在编辑时多空出一行，但如果想让文章更紧凑，只需在需要换行处加上![](images/07.png)就可以实现换行。<br/>
+如图<br/>
+![](images/05.png)<br/>
+效果图<br/>
+![](images/06.png)
 
 
-**我已学会使用 github 提交作业**
-
-![](images/零.jpg)
+那么第一篇博shui客wen就到这里
