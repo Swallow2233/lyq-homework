@@ -25,7 +25,7 @@
 1.泰勒分解<br/>
 
 求以下函数在x=0点的局部泰勒公式至所指定的阶数：<br/>
-$$e<sup>x</sup>sin x   (x<sup>4</sup>)$$
+e<sup>x</sup>sin x   (x<sup>4</sup>)
 
 首先定义一个x。<br/>
 ~~否则就会这样~~<br/>
