@@ -33,7 +33,7 @@
 
 #### Facebook与Cambridge Analytica数据丑闻
 
-![](images/lab11/Facebook.jpg)<br/>
+![](images/lab11/facebook.jpg)<br/>
 2018年3月17日，美国的《纽约时报》，以及英国的《卫报》、《观察家报》一齐爆出消息：效力于特朗普2016总统竞选的数据分析公司Cambridge Analytica和与之关联的企业战略通信实验室公司（Strategic Communications Laboratories；简称SCL）剽窃并秘密保存了5000万Facebook用户的数据。这意味着Facebook竟让数千万的用户的数据落入这些人手中，并被不当使用，而且是用于影响大选。在隐私保护方面，这家社交媒体巨头本来就已经声名狼藉、四面楚歌，这消息一经曝出，更是一石激起千层浪。<br/>
 之后五天时间， Facebook首席执行官马克·扎克伯格（Mark Zuckerberg）保持着一些人所说的“极其惹眼的沉默”。五天过去了，他终于在Facebook个人主页上发表长文，回应此事。之后，他接受了包括《连线》在内的少数几家媒体的采访，表示歉意、承认错误，甚至出人意料地表示，（对Facebook实施）监管也是可以的。<br/>
 （摘自https://www.zaojiu.com/talks/1892）
