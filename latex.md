@@ -16,17 +16,15 @@ $\underline{m+n}$<br/>
 
 $\underbrace{a+b+\cdots+z}_{26}$<br/>
 
-\begin{displaymath}
-\vec a\quad\overrightarrow{AB}
-\end{displaymath}
+$\vec a$<br/>
+$\overrightarrow{AB}$<br/>
 
 $1\frac{1}{2}$~hours<br/>
 
-$\frac{x^{2}}{k+1}\qquadx^{\frac{2}{k+1}}\qquadx^{1/2}$
+$\frac{x^{2}}{k+1}$<br/>
+$x^{\frac{2}{k+1}}$<br/>
+$x^{1/2}$<br/>
 
-
-$\begin{displaymath}
-\sum_{i=1}^{n}\qquad
-\int_{0}^{\frac{\pi}{2}}\qquad
-\prod_\epsilon
-\end{displaymath}$
+$\sum_{i=1}^{n}$<br/>
+$\int_{0}^{\frac{\pi}{2}}$<br/>
+$\prod_\epsilon$<br/>
