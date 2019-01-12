@@ -22,7 +22,7 @@ $\underbrace{a+b+\cdots+z}_{26}$<br/>
 
 $1\frac{1}{2}$~hours<br/>
 
-$\frac{x^{2}}{k+1}\qquadx^{\frac{2}{k+1}}\qquadx^{1/2}
+$\frac{x^{2}}{k+1}\qquadx^{\frac{2}{k+1}}\qquadx^{1/2}$
 
 
 $\begin{displaymath}
