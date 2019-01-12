@@ -22,9 +22,8 @@ $\underbrace{a+b+\cdots+z}_{26}$<br/>
 
 $1\frac{1}{2}$~hours<br/>
 
-$\begin{displaymath}
-\frac{x^{2}}{k+1}\qquadx^{\frac{2}{k+1}}\qquadx^{1/2}
-\end{displaymath}$
+$\frac{x^{2}}{k+1}\qquadx^{\frac{2}{k+1}}\qquadx^{1/2}
+
 
 $\begin{displaymath}
 \sum_{i=1}^{n}\qquad
