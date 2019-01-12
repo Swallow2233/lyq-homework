@@ -21,12 +21,13 @@ $\underbrace{a+b+\cdots+z}_{26}$<br/>
 \end{displaymath}
 
 $1\frac{1}{2}$~hours<br/>
-\begin{displaymath}
-\frac{x^{2}}{k+1}\qquadx^{\frac{2}{k+1}}\qquadx^{1/2}
-\end{displaymath}
 
-\begin{displaymath}
+$\begin{displaymath}
+\frac{x^{2}}{k+1}\qquadx^{\frac{2}{k+1}}\qquadx^{1/2}
+\end{displaymath}$
+
+$\begin{displaymath}
 \sum_{i=1}^{n}\qquad
 \int_{0}^{\frac{\pi}{2}}\qquad
 \prod_\epsilon
-\end{displaymath}
+\end{displaymath}$
